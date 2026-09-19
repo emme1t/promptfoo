@@ -6,11 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.123.2](https://github.com/promptfoo/promptfoo/compare/0.123.1...0.123.2) (2026-09-19)
 
-
 ### Bug Fixes
 
-* **deps:** pin ansi-tokenize to 0.3.0 ([#10990](https://github.com/promptfoo/promptfoo/issues/10990)) ([a89e3cc](https://github.com/promptfoo/promptfoo/commit/a89e3cc42eba5fbc43050959bb81581ef0f89d07))
-* **deps:** update ibm-cloud-sdk-core to v5.6.1 ([#10986](https://github.com/promptfoo/promptfoo/issues/10986)) ([17b5a0a](https://github.com/promptfoo/promptfoo/commit/17b5a0a6a6640e968380b4db50c7cb09bd3cd1f7))
+- **deps:** pin ansi-tokenize to 0.3.0 ([#10990](https://github.com/promptfoo/promptfoo/issues/10990)) ([a89e3cc](https://github.com/promptfoo/promptfoo/commit/a89e3cc42eba5fbc43050959bb81581ef0f89d07))
+- **deps:** update ibm-cloud-sdk-core to v5.6.1 ([#10986](https://github.com/promptfoo/promptfoo/issues/10986)) ([17b5a0a](https://github.com/promptfoo/promptfoo/commit/17b5a0a6a6640e968380b4db50c7cb09bd3cd1f7))
 
 ## [0.123.1](https://github.com/promptfoo/promptfoo/compare/0.123.0...0.123.1) (2026-09-18)
 
